@@ -1,0 +1,79 @@
+﻿  bullets.cpp
+  enemies.cpp
+C:\Users\Tomek\Documents\VSKod\Doom2D\Doom2D\enemies.cpp(43,29): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Tomek\Documents\VSKod\Doom2D\Doom2D\enemies.cpp(44,31): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Tomek\Documents\VSKod\Doom2D\Doom2D\enemies.cpp(45,68): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Tomek\Documents\VSKod\Doom2D\Doom2D\enemies.cpp(50,29): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Tomek\Documents\VSKod\Doom2D\Doom2D\enemies.cpp(51,31): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Tomek\Documents\VSKod\Doom2D\Doom2D\enemies.cpp(52,70): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  game.cpp
+  imports.cpp
+  main.cpp
+C:\Users\Tomek\Documents\VSKod\Doom2D\Doom2D\main.cpp(9,52): warning C4244: 'argument': conversion from 'T' to 'const float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\Tomek\Documents\VSKod\Doom2D\Doom2D\main.cpp(9,32): warning C4244: 'argument': conversion from 'T' to 'const float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  menu.cpp
+C:\Users\Tomek\Documents\VSKod\Doom2D\Doom2D\menu.cpp(76,107): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  player.cpp
+C:\Users\Tomek\Documents\VSKod\Doom2D\Doom2D\player.cpp(87,21): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\Tomek\Documents\VSKod\Doom2D\Doom2D\player.cpp(123,29): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Tomek\Documents\VSKod\Doom2D\Doom2D\player.cpp(124,31): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Tomek\Documents\VSKod\Doom2D\Doom2D\player.cpp(134,29): warning C4244: '=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+C:\Users\Tomek\Documents\VSKod\Doom2D\Doom2D\player.cpp(135,31): warning C4244: '+=': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+  Generating Code...
+  Doom2D.vcxproj -> C:\Users\Tomek\Documents\VSKod\Doom2D\x64\Debug\Doom2D.exe

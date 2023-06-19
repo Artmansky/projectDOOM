@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Menu">
+      <UniqueIdentifier>{d775d688-4e87-4329-826b-497cdd65db8b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Player">
+      <UniqueIdentifier>{cc3f878b-a7db-4527-abed-da99baa15cc4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Game">
+      <UniqueIdentifier>{bf3e53e7-1c44-4e01-bbc1-4e7a6156c419}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Imports">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Main">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Enemies">
+      <UniqueIdentifier>{0c38eace-2a00-4fb1-9fd1-20e196bd3045}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Bullets">
+      <UniqueIdentifier>{c2661f0e-053a-4c1f-9013-825a600f2d50}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
+    <ClCompile Include="game.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="player.cpp">
+      <Filter>Player</Filter>
+    </ClCompile>
+    <ClCompile Include="menu.cpp">
+      <Filter>Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="enemies.cpp">
+      <Filter>Enemies</Filter>
+    </ClCompile>
+    <ClCompile Include="bullets.cpp">
+      <Filter>Bullets</Filter>
+    </ClCompile>
+    <ClCompile Include="imports.cpp">
+      <Filter>Imports</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="imports.hpp">
+      <Filter>Imports</Filter>
+    </ClInclude>
+    <ClInclude Include="game.hpp">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="player.hpp">
+      <Filter>Player</Filter>
+    </ClInclude>
+    <ClInclude Include="menu.hpp">
+      <Filter>Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="enemies.hpp">
+      <Filter>Enemies</Filter>
+    </ClInclude>
+    <ClInclude Include="bullets.hpp">
+      <Filter>Bullets</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ClassDiagram.cd" />
+  </ItemGroup>
+</Project>
