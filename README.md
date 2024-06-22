@@ -1,6 +1,6 @@
-# wavASM
+# project DOOM
 
-Written in C++, SFML based game. Assets come from their original authors.
+Written in C++, SFML based game. Assets come from their original authors. Somehow based on Original Doom series.
 
 ## Installation
 
